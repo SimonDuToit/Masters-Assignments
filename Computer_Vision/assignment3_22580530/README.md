@@ -1,0 +1,1 @@
+Assignment includes implementation of a GAN and a discussion on image captioning techniques.

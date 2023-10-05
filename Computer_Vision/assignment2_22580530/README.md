@@ -1,0 +1,1 @@
+Assignment includes implementations of CNN models for image classification, visual detection (bounding box) and image denoising.

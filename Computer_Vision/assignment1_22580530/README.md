@@ -1,0 +1,1 @@
+Assignment includes implementation and study of a CNN for image classification, saliency maps and a method for generating adverserial images for a classifier.
