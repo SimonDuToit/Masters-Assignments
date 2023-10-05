@@ -1,0 +1,1 @@
+Implementation of a hidden markov model for performing part-of-speech tagging on isiXhosa.
